@@ -1,4 +1,4 @@
-# Angular notes
+# Flutter notes
 
 <h1 align="center">
   <br>
@@ -8,13 +8,10 @@
 </h1>
 
 ## Key Features
-MY ANGULAR BASIC NOTES
+MY FLUTTER BASIC NOTES
 
-## Main Idea of 
-Investigate Angular framework facilities to unite this knowledge with Asp.Net Core knowledge to become a full-stack .NET Developer in future.
-
-## How To Use
-Just download and read)
+## Main Idea of this repository
+Investigate Flutter facilities to unite this knowledge with Asp.Net Core knowledge to become a full-stack .NET Developer in future.
 
 ## Support
 If you are going to copy...
